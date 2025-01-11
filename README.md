@@ -1,2 +1,3 @@
 # Smoking-rates-europe-python
-Analysis of smoking rates in European countries using Python.
+This repository contains a Python project analyzing smoking rates in European countries using public datasets.
+
