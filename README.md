@@ -1,6 +1,12 @@
 # Smoking Rates in European Countries
-
 This repository contains a Python project analyzing smoking rates in European countries and the impact of anti-smoking policies and support programs on smoking prevalence. The analysis uses publicly available datasets and applies statistical and machine learning techniques.
+
+<p align="center">
+  <img src="https://www.leparisien.fr/resizer/e04v-yP_LR272i1pPZE3Nu3R68Y=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/UUZ32DO5VBDZTH35NXQKYRWCC4.jpg" 
+       alt="British Airways Plane" 
+       width="400"/>
+</p>
+
 
 ## Project Overview
 - **Hypothesis**: European countries with strict anti-smoking policies and strong support programs to quit smoking have significantly lower smoking rates.
@@ -11,6 +17,7 @@ This repository contains a Python project analyzing smoking rates in European co
   - Enforcement of bans on tobacco advertising
   - Support to quit smoking
 - **Scope**: Focused on European countries in 2020.
+
 
 ## Features and Analysis
 1. **Data Cleaning**:
@@ -32,6 +39,7 @@ This repository contains a Python project analyzing smoking rates in European co
    - A weak positive correlation between male and female smoking rates.
    - Accurate prediction of smoking rates with a Mean Squared Error (MSE) of 0.00055.
 
+
 ## Libraries Used
 To analyze the data, I used the following libraries:
 - **pandas**: Data manipulation and analysis.
@@ -41,9 +49,7 @@ To analyze the data, I used the following libraries:
 - **scipy**: Statistical testing.
 - **sklearn**: Machine learning and regression modeling.
 
+
 ## Presentation
 A PowerPoint presentation summarizing the findings is included in this repository:
 SmokingRatesAnalysis.pptx
-
-
-
