@@ -3,7 +3,7 @@ This repository contains a Python project analyzing smoking rates in European co
 
 <p align="center">
   <img src="https://www.leparisien.fr/resizer/e04v-yP_LR272i1pPZE3Nu3R68Y=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/UUZ32DO5VBDZTH35NXQKYRWCC4.jpg" 
-       alt="British Airways Plane" 
+       alt="Smoking Rates in European Countries" 
        width="400"/>
 </p>
 
